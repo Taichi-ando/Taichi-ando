@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Taichi-ando&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Taichi-ando&count_private=true&show_icons=true&theme=radical" />
 </a>
